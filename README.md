@@ -1,4 +1,4 @@
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Jose Araujo 👋
+# Hola, mi nombre es Jose Araujo 👋
 ###Full-stack & Devops
 
 ![https://github.com/mouredev](./mouredev_github_profile.png)
